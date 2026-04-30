@@ -26,3 +26,8 @@ The notebook has the following steps:
 ## Notes for reproducibility
 The notebook uses relative file paths. It should be run from the root folder.
 If using Google Colab, the repository can be cloned first and the working directory changed to the cloned repository folder before running the notebook.
+## reproduce the analysis
+1. Clone or download this GitHub repository.
+2. Open the notebook file in Colab.
+3. Ensure all datasets are stored in the data folder.
+4. Run the notebook cells in order from top to bottom.
